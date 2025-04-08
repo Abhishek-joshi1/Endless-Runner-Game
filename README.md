@@ -133,7 +133,3 @@ git clone https://github.com/fchavonet/unity-2d-endless-runner.git
 
 A big thank you to my friend Yoann for taking time out of his busy schedule to test this little game.
 
-## 👷 <span id="authors">Authors</span>
-
-**Fabien CHAVONET**
-- Github: [@fchavonet](https://github.com/fchavonet)
